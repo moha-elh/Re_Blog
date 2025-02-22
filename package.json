@@ -1,0 +1,26 @@
+{
+  "name": "full_stack_blog",
+  "version": "1.0.0",
+  "description": "a blog similar to the reddit idea, it's actually my first all built-in project by me!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moha-elh/Re_Blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moha-elh/Re_Blog/issues"
+  },
+  "homepage": "https://github.com/moha-elh/Re_Blog#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "pg": "^8.13.3"
+  }
+}
